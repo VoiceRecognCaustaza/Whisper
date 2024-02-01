@@ -9,7 +9,7 @@ This project aims to transcribe voice from an input audio file to a text given i
 
 # Prerequisites
 
-- Python 3.6 or higher
+- Python 3.8 or higher
 - Audio file in MP3 format
 - Git installed
 
